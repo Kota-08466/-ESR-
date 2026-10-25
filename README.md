@@ -14,6 +14,7 @@ Pythonがインストールされている環境で、ターミナルから以�
 ```bash
 pip install streamlit pandas plotly openpyxl
 ```
+このGit上にある分解ESR.xlsxをダウンロード。
 
 ### 2. ファイルの配置
 以下のファイルを同じフォルダに配置してください。
